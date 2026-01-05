@@ -8,7 +8,7 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spanserki&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_public=true"/>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Spanserki&bg_color=0a0a0a&color=ffffff&line=3b55b5&point=006eff=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilherme-spanserki&bg_color=0a0a0a&color=ffffff&line=3b55b5&point=006eff=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
