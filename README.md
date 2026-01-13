@@ -7,12 +7,12 @@
     <td align="center">
       <img
         width="100%"
-        height="350px"
+        height="100%"
         alt="coding-time"
         src="https://github.com/user-attachments/assets/558d12b9-22a8-49e3-b00d-4dc3fb3b2b08"
       />
     </td>
-    <td >
+    <td>
       <table>
         <tr>
           <td align="center">
