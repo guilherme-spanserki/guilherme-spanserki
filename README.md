@@ -4,10 +4,10 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center"  height="500px">
       <img
         width="100%"
-        height="400px"
+        height="500px"
         alt="coding-time"
         src="https://github.com/user-attachments/assets/558d12b9-22a8-49e3-b00d-4dc3fb3b2b08"
       />
